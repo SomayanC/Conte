@@ -1,0 +1,2 @@
+# Conte
+Conté is a small computer input device inspired by the way artists manipulate a real Conté crayon. By changing which corner, edge, end, or side is contacting an interactive display, you can switch between different functions using a single hand. Conté's rectangular shape enables both precise pen-like input and tangible handle interaction, and it has a natural compatibility with multi-touch input. For example, it can be tucked in the palm to interleave same-hand touch input, or used to expand the vocabulary of two-handed touch.
